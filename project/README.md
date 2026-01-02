@@ -19,7 +19,7 @@ This project sets up a simple cloud infrastructure using AWS and Terraform to de
 ## Getting Started
 
 
-    ```
+   
 1. Initialize the terraform project
     ```bash
     terraform init
