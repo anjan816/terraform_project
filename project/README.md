@@ -18,17 +18,14 @@ This project sets up a simple cloud infrastructure using AWS and Terraform to de
 
 ## Getting Started
 
-1. Add the Node Js application [source Code](https://github.com/verma-kunal/nodejs-mysql) in the directory:
-    ```bash
-    cd project
-    git clone https://github.com/verma-kunal/nodejs-mysql.git ./app
+
     ```
-2. Initialize the terraform project
+1. Initialize the terraform project
     ```bash
     terraform init
     ```
-3. Make relevant changes to the terraform code.
-4. Apply the changes and provision the infrastructure:
+2. Make relevant changes to the terraform code.
+3. Apply the changes and provision the infrastructure:
     ```bash
     terraform apply
     ```
